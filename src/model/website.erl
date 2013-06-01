@@ -1,0 +1,2 @@
+-module(website, [Id, Url]).
+-compile(export_all).
