@@ -1,0 +1,22 @@
+2013-05-27 23:12:30.642 [info] <0.7.0> Application lager started on node sonar@golang
+2013-05-27 23:12:30.744 [info] <0.67.0> Starting Boss in development mode....
+
+2013-05-27 23:12:30.815 [info] <0.67.0> Starting master services on sonar@golang
+
+2013-05-27 23:12:30.834 [info] <0.7.0> Application tinymq started on node sonar@golang
+2013-05-27 23:12:30.898 [info] <0.67.0> SSL:[]
+
+2013-05-27 23:12:30.928 [info] <0.7.0> Application boss started on node sonar@golang
+2013-05-27 23:12:30.987 [info] <0.151.0> Loading routes from "/home/darko/sonar/priv/sonar.routes" ....
+2013-05-27 23:13:10.074 [info] <0.151.0> Loading routes from "/home/darko/sonar/priv/sonar.routes" ....
+2013-05-27 23:13:10.083 [error] <0.147.0> GET /greeting/hello [sonar] 404 8ms
+2013-05-27 23:14:31.238 [info] <0.7.0> Application lager started on node sonar@golang
+2013-05-27 23:14:31.279 [info] <0.67.0> Starting Boss in development mode....
+
+2013-05-27 23:14:31.352 [info] <0.67.0> Starting master services on sonar@golang
+
+2013-05-27 23:14:31.372 [info] <0.7.0> Application tinymq started on node sonar@golang
+2013-05-27 23:14:31.434 [info] <0.67.0> SSL:[]
+
+2013-05-27 23:14:31.468 [info] <0.7.0> Application boss started on node sonar@golang
+2013-05-27 23:14:31.497 [info] <0.151.0> Loading routes from "/home/darko/sonar/priv/sonar.routes" ....
