@@ -1,0 +1,21 @@
+<html>
+
+  <head>
+    <title>{% block title %}Websites!{% endblock %}</title>
+  </head>
+
+  <body>
+    {% block body %}
+    <ul>
+      {% if websites %}
+      {% for website in websites %}
+      <li>{{ website.url }}</li>
+      {% endfor %}
+      {% else %}
+      <li>No websites!</li>
+      {% endif %}
+    </ul>
+    {% endblock %}
+  </body>
+
+</html>
