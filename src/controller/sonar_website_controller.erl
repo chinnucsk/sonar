@@ -16,7 +16,7 @@ create('POST', []) ->
     {error, ErrorList} -> {ok, [{errors, ErrorList}, {new_website, NewWebsite}]}
   end.
 
-testxxx('GET', [Id]) ->
+testxxx('GET', ["id", Id]) ->
   case boss_db:find(Id) of
     {error, Reason} -> {redirect, [{action, "index"}]};
     undefined -> {redirect, [{action, "create"}]};
